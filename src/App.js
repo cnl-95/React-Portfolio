@@ -15,10 +15,10 @@ import styled from 'styled-components';
 
 const theme = {
   colors: {
-    header: '#8AA1B2',
+    header: '#a08b9c',
     activeNavLink: '#375875',
     hero: '#ffffff',
-    footer: '#8AA1B2',
+    footer: '#a08b9c',
     fontColor: '#ffff',
     pBgColor: '#000000',
     sBgColor: '#A7BAC9',
