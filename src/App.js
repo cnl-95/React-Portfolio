@@ -20,7 +20,7 @@ const theme = {
     hero: '#ffffff',
     footer: '#a08b9c',
     fontColor: '#ffff',
-    pBgColor: '#000000',
+    pBgColor: '#ffffff',
     sBgColor: '#A7BAC9',
     pColor: '#93939d',
     sColor: '#f3f6f6',
@@ -60,6 +60,6 @@ const ProjectContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #000000;
+  background: #ffffff;
   /* height: 30vh; */
 `;

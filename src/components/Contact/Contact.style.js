@@ -44,7 +44,7 @@ export const Form = styled.form`
 
   h1 {
     margin-bottom: 30px;
-    color: #ffff;
+    color: #fffff;
     font-weight: 600;
     font-size: 30px;
     text-align: center;
