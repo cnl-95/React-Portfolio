@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sophoanmeas.github.io/react-portfolio",
+  "homepage": "",
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -16,8 +16,11 @@
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4",
-    "node": "^16.14.2"
 
+  },
+  "engines": {
+    "node": "^0.8.8",
+    "npm": "^1.1.65"
   },
   "scripts": {
     "predeploy": "npm run build",
