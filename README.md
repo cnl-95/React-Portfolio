@@ -19,7 +19,7 @@ run npm start
 ![hippo](https://github.com/cnl-95/React-Portfolio/blob/main/src/assets/images/screenshots/Screenshot%202022-07-26%20160633.png?raw=true)
 ![hippo](https://github.com/cnl-95/React-Portfolio/blob/main/src/assets/images/screenshots/Screenshot%202022-07-26%20160741.png?raw=true)
 ![hippo](https://github.com/cnl-95/React-Portfolio/blob/main/src/assets/images/screenshots/Screenshot%202022-07-26%20160713.png?raw=true)
-![hippo](https://github.com/cnl-95/React-Portfolio/blob/main/src/assets/images/screenshots/Screenshot%202022-07-26%20160633.png?raw=true)
+
 
   ## License
   This project is licensed under the MIT license.
