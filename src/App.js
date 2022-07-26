@@ -15,10 +15,10 @@ import styled from 'styled-components';
 
 const theme = {
   colors: {
-    header: '#a08b9c',
-    activeNavLink: '#375875',
+    header: '#CDC0B8',
+    activeNavLink: '#99745A',
     hero: '#ffffff',
-    footer: '#a08b9c',
+    footer: '#CDC0B8',
     fontColor: '#ffff',
     pBgColor: '#ffffff',
     sBgColor: '#A7BAC9',
@@ -60,6 +60,6 @@ const ProjectContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #ffffff;
+  background: white;
   /* height: 30vh; */
 `;

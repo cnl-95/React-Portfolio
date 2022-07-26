@@ -26,6 +26,7 @@ export const Container = styled.div`
 export const CardContainer = styled.div`
   display: flex;
   flex-direction: column;
+  color: white;
   /* 
   @media screen and (max-width: 760px) {
     height: 1100px;
@@ -45,6 +46,7 @@ export const CardWrapper = styled.div`
   padding: 0 20px;
   margin-bottom: 3rem;
   margin-top: 1rem;
+  color: white;
 
   @media screen and (max-width: 1000px) {
     grid-template-columns: 1fr 1fr;
@@ -60,8 +62,8 @@ export const Card = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: rgba(253, 253, 253, 0.12);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  background: white;
+  box-shadow: 0 8px 32px 0 #828583;
   backdrop-filter: blur(1px);
   -webkit-backdrop-filter: blur(1px);
   border-radius: 10px;
@@ -91,6 +93,6 @@ export const HeaderH1 = styled.h1`
 export const Text = styled.p`
   padding: 0 2rem 2rem;
   font-size: 15px;
-  color: #ffff;
+  color: #A6A7A7;
   line-height: 150%;
 `;

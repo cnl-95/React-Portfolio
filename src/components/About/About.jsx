@@ -20,13 +20,7 @@ export default function About() {
           <ProfileImage></ProfileImage>
         </ProfileImageWrapper>
         <AboutH2>
-          Hi, my name is Sophoan Meas. I decided to continue with my programming
-          skill in the field of web developing after graduation and got my
-          degree in Computer Engineering I wanted to get into the field and
-          become a full-stack developer. I am enrolled in a Bootcamp at Carleton
-          University. Throughtout the course, I have learned Javascript, CSS,
-          HTML, jQuery, React.js, MYSQL, NOSQL, MongoDB, GraphQL. With that
-          being said, I am fully a MERN stack developer.
+          Hi, my name is Christian Lafferty. After a life long love of computers and with some basic knowledge of HTML and CSS, I deciding to pursue the interest in Web Development. I'm currently enrolled in a Full Stack bootcamp through Vanderbilt University. Through the course, I've learned CSS, JavaScript, jQuery, React.js, MYSQL, NOSQL, MongoDB, GraphQL, and Node.js. 
         </AboutH2>
         <ProjectWrapper>
           <ProjectCard>

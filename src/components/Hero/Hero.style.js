@@ -9,8 +9,8 @@ export const ProfileImage = styled.div`
   background-image: url(${ProfileImg});
   background-repeat: no-repeat;
   background-position: center;
-  width: 209px;
-  height: 225px;
+  width: 450px;
+  height: 300px;
   border-radius: 5px;
   max-height: 340px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
@@ -69,6 +69,7 @@ export const HeroContent = styled.div`
 
 export const HeroH1 = styled.h1`
   color: white;
+  text-shadow: 2px 2px #B7B8B8;
   font-size: 48px;
   text-align: center;
 

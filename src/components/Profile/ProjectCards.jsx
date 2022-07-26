@@ -7,9 +7,9 @@ import {
   ProjectH2,
   ProjectIcon,
 } from './ProjectCards.style';
-import CodeQuiz from '../../assets/images/projects/code-quiz-challenge.png';
-import WeatherDashboard from '../../assets/images/projects/weather-dashboard.png';
-import NoteTaker from '../../assets/images/projects/note-taker.png';
+import goJoe from '../../assets/images/projects/goJoe.png';
+import codeQuiz from '../../assets/images/projects/codeQuiz.png';
+import workPlanner from '../../assets/images/projects/workPlanner.png';
 import MoviesTv from '../../assets/images/projects/movies-tv-shows.png';
 import QuoteSmith from '../../assets/images/projects/quotes-smith.png';
 
@@ -17,21 +17,21 @@ export default function ProjectCards() {
   const [projects] = useState([
     {
       id: 1,
-      title: 'Password Generator',
-      link: 'https://sophoanmeas.github.io/code-quiz/Develop/index.html',
-      image: CodeQuiz,
+      title: 'Go Joe',
+      link: 'https://cnl-95.github.io/GoJoe/',
+      image: goJoe,
     },
     {
       id: 2,
-      title: 'Weather Dashboard',
-      link: 'https://sophoanmeas.github.io/weather-dashboard/develop/index.html',
-      image: WeatherDashboard,
+      title: 'Code Quiz',
+      link: 'https://cnl-95.github.io/JS-Code-Quiz/',
+      image: codeQuiz,
     },
     {
       id: 3,
-      title: 'Note Taker',
-      link: 'https://note-taker-pon.herokuapp.com',
-      image: NoteTaker,
+      title: 'Work Day Planner',
+      link: 'https://cnl-95.github.io/Work-Day-Scheduler/',
+      image: workPlanner,
     },
     {
       id: 4,
@@ -41,6 +41,13 @@ export default function ProjectCards() {
     },
     {
       id: 5,
+      title: 'Quote-Smith',
+      link: 'https://group2-quotesmith.herokuapp.com/',
+      image: QuoteSmith,
+    },
+
+    {
+      id: 6,
       title: 'Quote-Smith',
       link: 'https://group2-quotesmith.herokuapp.com/',
       image: QuoteSmith,

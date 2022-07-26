@@ -6,7 +6,7 @@ export default function Header({toggleMenu}) {
   return (
       <>
         <NavbarContainer>
-        <LogoName to='/'>Sophoan Meas</LogoName>
+        <LogoName to='/'>Christian Lafferty</LogoName>
           <NavList>
             <HamburgerIcon onClick={toggleMenu}>
               <FaBars/>

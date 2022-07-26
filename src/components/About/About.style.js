@@ -39,8 +39,8 @@ export const ProfileImage = styled.div`
   background-image: url(${ProfileImg});
   background-repeat: no-repeat;
   background-position: center;
-  width: 170px;
-  height: 210px;
+  width: 450px;
+  height: 300px;
   border-radius: 5px;
   max-height: 340px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
@@ -81,7 +81,7 @@ export const ProjectWrapper = styled.div`
 `;
 
 export const ProjectCard = styled.div`
-  background: #fffff;
+  background: #C4B99D;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;

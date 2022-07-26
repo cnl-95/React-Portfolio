@@ -24,7 +24,7 @@ export default function Footer() {
             <FooterHeader></FooterHeader>
             <FooterLink>
               <a
-                href='https://github.com/SophoanMeas'
+                href='https://github.com/cnl-95'
                 target='_blank'
                 rel='noreferrer'
               >
@@ -35,7 +35,7 @@ export default function Footer() {
             </FooterLink>
             <FooterLink>
               <a
-                href='https://www.linkedin.com/in/sophoan-meas/'
+                href='https://www.linkedin.com/in/christian-lafferty-9212a9230'
                 target='_blank'
                 rel='noreferrer'
               >
@@ -46,7 +46,7 @@ export default function Footer() {
             </FooterLink>
             <FooterLink>
               <a
-                href='https://stackoverflow.com/users/19531652/ponny-meas'
+                href='https://stackoverflow.com/users/19621354/christian'
                 target='_blank'
                 rel='noreferrer'
               >

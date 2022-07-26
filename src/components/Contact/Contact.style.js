@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import ResumeBg from '../../assets/images/background/resume-bg.jpg';
 
 export const FormContainer = styled.div`
   display: flex;
@@ -7,7 +8,7 @@ export const FormContainer = styled.div`
   align-items: center;
   min-height: 100vh;
 
-  background: linear-gradient(120deg, #060606 0%, #2847ab 100%);
+  background: url(${ResumeBg}) ;
   overflow: hidden;
 `;
 
@@ -39,7 +40,7 @@ export const Form = styled.form`
   margin: 0;
   padding: 30px 32px;
   border-radius: 4px;
-  background: #010101;
+  background: #C4B99D;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
 
   h1 {
@@ -94,7 +95,7 @@ export const FormButton = styled.button`
   margin-top: 1.5rem;
   padding: 15px 0;
   font-size: 20px;
-  background: #0cbf71;
+  background: #465953;
   min-width: auto;
   cursor: pointer;
   white-space: nowrap;

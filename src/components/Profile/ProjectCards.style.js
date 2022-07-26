@@ -36,6 +36,7 @@ export const ProjectContainer = styled.div`
 `;
 
 export const ProjectWrapper = styled.div`
+  
   max-width: 100vh;
   margin: 0 auto;
   display: grid;
@@ -46,6 +47,7 @@ export const ProjectWrapper = styled.div`
   grid-gap: 16px;
   padding: 0 50px;
   margin-bottom: 3rem;
+  
 
   @media screen and (max-width: 800px) {
     grid-template-columns: 1fr 1fr;
@@ -58,7 +60,7 @@ export const ProjectWrapper = styled.div`
 `;
 
 export const ProjectCard = styled.div`
-  background: #ffff;
+  background: #C4B99D;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -66,7 +68,6 @@ export const ProjectCard = styled.div`
   border-radius: 10px;
   min-height: 100%;
   padding: 40px;
-  background: rgba(253, 253, 253, 0.25);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   transition: all 0.2s ease-in-out;
 
@@ -85,11 +86,13 @@ export const ProjectIcon = styled.img`
   height: 160px;
   width: 240px;
   margin-bottom: 10px;
+  background: #ffffff;
 `;
 
 export const ProjectH1 = styled.h1`
   font-size: 2.5rem;
-  color: #fffff;
+  color: #ffffff;
+  text-shadow: 2px 2px #B7B8B8;
   margin: 64px;
 
   @media screen and (max-width: 480px) {
@@ -104,7 +107,7 @@ export const ProjectH2 = styled.h1`
   text-decoration: none;
 
   :hover {
-    color: #00c9a7;
+    color: #465953;
     transition: 0.1s ease-in-out;
   }
 

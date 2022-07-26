@@ -15,13 +15,11 @@ export default function Hero() {
       <HeroBg></HeroBg>
       <HeroContent>
         <HeroH1 className='animate__animated animate__fadeInDown'>
-          Welcome to my profile page
+          Welcome
         </HeroH1>
         <ProfileImage></ProfileImage>
         <HeroP>
-          I am a Full-stack web developer with over 5+ years of experience in
-          coding.Developed varieties of applications and projects through-out
-          the course. Have a look at my projects and resume for more info
+          Full Stack Web Developer with 1 year of experience in designing and developing user interfaces, testing and debugging applications. I have the proven ability to optimize web functionalities that improve data retrieval and workflow efficiencies.
         </HeroP>
       </HeroContent>
     </HeroContainer>
