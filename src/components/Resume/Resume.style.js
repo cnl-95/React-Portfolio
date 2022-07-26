@@ -88,7 +88,7 @@ export const CardIcon = styled.img`
 export const HeaderH1 = styled.h1`
   padding: 1.5rem;
   font-size: 20px;
-  color: #ffff;
+  color: #BB996B;
 `;
 export const Text = styled.p`
   padding: 0 2rem 2rem;

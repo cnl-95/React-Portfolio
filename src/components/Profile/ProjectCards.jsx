@@ -10,8 +10,8 @@ import {
 import goJoe from '../../assets/images/projects/goJoe.png';
 import codeQuiz from '../../assets/images/projects/codeQuiz.png';
 import workPlanner from '../../assets/images/projects/workPlanner.png';
-import MoviesTv from '../../assets/images/projects/movies-tv-shows.png';
-import QuoteSmith from '../../assets/images/projects/quotes-smith.png';
+import budgetTracker from '../../assets/images/projects/budgetTracker.png';
+import pennyThoughts from '../../assets/images/projects/pennyThoughts.png';
 
 export default function ProjectCards() {
   const [projects] = useState([
@@ -35,23 +35,24 @@ export default function ProjectCards() {
     },
     {
       id: 4,
-      title: 'Movies-Tv-Shows',
-      link: 'https://sophoanmeas.github.io/movies-tv-shows/index.html',
-      image: MoviesTv,
+      title: 'Budget Tracker',
+      link: 'https://github.com/cnl-95/budget-tracker',
+      image: budgetTracker,
     },
     {
       id: 5,
-      title: 'Quote-Smith',
-      link: 'https://group2-quotesmith.herokuapp.com/',
-      image: QuoteSmith,
+      title: 'Penny For Your Thoughts',
+      link: 'https://penny-thoughts.herokuapp.com//',
+      image: pennyThoughts,
     },
 
     {
-      id: 6,
-      title: 'Quote-Smith',
-      link: 'https://group2-quotesmith.herokuapp.com/',
-      image: QuoteSmith,
+      id: 5,
+      title: 'Penny For Your Thoughts',
+      link: 'https://penny-thoughts.herokuapp.com//',
+      image: pennyThoughts,
     },
+    
   ]);
 
   return (

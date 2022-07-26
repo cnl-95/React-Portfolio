@@ -24,18 +24,18 @@ export default function About() {
         </AboutH2>
         <ProjectWrapper>
           <ProjectCard>
-            <ProjectIcon src={Icon1}></ProjectIcon>
+            
             <AboutH1>Full-Stack Developer</AboutH1>
           </ProjectCard>
           <ProjectCard>
-            <ProjectIcon src={Icon2}></ProjectIcon>
+            
             <AboutH1>
               C, C++, C#, Java, JavaScript, HTML/CSS, SQL, MYSQL, React.js,
               Node.js, GraphQL, MongoDB{' '}
             </AboutH1>
           </ProjectCard>
           <ProjectCard>
-            <ProjectIcon src={Icon3}></ProjectIcon>
+            
             <AboutH1>
               Knowledge: Data-Structure, Interfacing, Software Design/Testing,
               Network Programming, Unix/Linux, embedded programming, real-time,
